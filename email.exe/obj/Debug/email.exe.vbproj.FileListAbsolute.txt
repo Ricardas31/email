@@ -1,0 +1,24 @@
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\bin\Debug\email.exe.exe.config
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\bin\Debug\email.exe.exe
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\bin\Debug\email.exe.pdb
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\bin\Debug\email.exe.xml
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.Form1.resources
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.Resources.resources
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.vbproj.GenerateResource.Cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.exe
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.xml
+C:\Users\Ricardas\AppData\Local\Temporary Projects\email.exe\obj\Debug\email.exe.pdb
+C:\Users\Ricardas\source\repos\email.exe\email.exe\bin\Debug\email.exe.exe.config
+C:\Users\Ricardas\source\repos\email.exe\email.exe\bin\Debug\email.exe.exe
+C:\Users\Ricardas\source\repos\email.exe\email.exe\bin\Debug\email.exe.pdb
+C:\Users\Ricardas\source\repos\email.exe\email.exe\bin\Debug\email.exe.xml
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.Form1.resources
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.Resources.resources
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.vbproj.GenerateResource.Cache
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.exe
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.xml
+C:\Users\Ricardas\source\repos\email.exe\email.exe\obj\Debug\email.exe.pdb
