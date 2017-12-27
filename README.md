@@ -1,2 +1,2 @@
 # email
-Email apps
+Email Windows app
